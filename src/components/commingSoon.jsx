@@ -1,29 +1,46 @@
 "use client";
 import { useRouter } from "next/navigation";
+import "./components.css"; // Plain import for global CSS
 
 export default function ComingSoon() {
   const router = useRouter();
 
   return (
-    <div
-      onClick={() => router.back()}
-      className="min-h-screen w-screen flex flex-col items-center justify-center bg-gray-100 cursor-pointer"
-    >
-      
-      <h1 className="text-6xl font-extrabold text-gray-800 mb-6">
-        Coming Soon 🚀
-      </h1>
+    <div onClick={() => router.back()} className="pageContainer">
+      <div className="contentWrapper">
+        
+        <div className="headingContainer">
+          <div className="glowEffect"></div>
+          <h1 className="headingText">
+            Coming Soon <span className="emoji">🚀</span>
+          </h1>
+        </div>
 
-      <p className="text-xl text-gray-600 mb-8">
-        Click anywhere to go back
-      </p>
+        <div className="glassCard">
+          <div className="decorativeLine"></div>
+          <p className="cardText">
+            Due to the limited size of our team and the large number of courses, 
+            the materials for this section are currently unavailable. We sincerely 
+            appreciate your patience and are working diligently to make them 
+            available as soon as possible.
+          </p>
+        </div>
 
-      <div className="bg-white shadow-lg rounded-xl p-6 hover:bg-gray-200 transition">
-        <p className="text-lg text-gray-700">
-          Stay tuned for updates!
-        </p>
+        <div className="hintContainer">
+          <svg 
+            className="hintIcon" 
+            fill="none" 
+            stroke="currentColor" 
+            viewBox="0 0 24 24"
+          >
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+          </svg>
+          <span className="hintText">
+            Click anywhere to go back
+          </span>
+        </div>
+
       </div>
-
     </div>
   );
 }
