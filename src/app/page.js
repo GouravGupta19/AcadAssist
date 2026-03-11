@@ -6,16 +6,16 @@ export default function Home() {
     <main className="main-container">
       <header className="header">
         <h1 className="title">AcadAssist</h1>
-        <p className="subtitle">Access notes and contribute resources</p>
+        <p className="subtitle">Explore academic resources and contribute to the learning community.</p>
       </header>
 
       <div className="grid-container">
         <Link href="/contri" className="link-card contributor-card">
-          <span className="link-text">Contributor</span>
+          <span className="link-text">Contributors</span>
         </Link>
 
         <Link href="/dashboard" className="link-card dashboard-card">
-          <span className="link-text">Dashboard</span>
+          <span className="link-text">Start Learning</span>
         </Link>
       </div>
     </main>
