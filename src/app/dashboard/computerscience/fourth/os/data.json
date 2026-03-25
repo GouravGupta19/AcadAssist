@@ -6,17 +6,132 @@
     },
     {
         "id": 2,
-        "name": "File 2",
-        "link": "https://example.com/file2.pdf"
+        "name": "Overview",
+        "link": "https://drive.google.com/file/d/1_wgvHKEYfxPOodvqtzNEuYc-wlcZgn75/view?usp=sharing"
     },
     {
         "id": 3,
-        "name": "File 3",
-        "link": "https://example.com/file3.pdf"
+        "name": "Process",
+        "link": "https://drive.google.com/file/d/1eGGer0BwTIn908wGTLnSWjrwOmLlWuQk/view?usp=sharing"
     },
     {
         "id": 4,
-        "name": "File 4",
-        "link": "https://example.com/file4.pdf"
+        "name": "InterviewBitQns",
+        "link": "https://drive.google.com/file/d/1AHcjfmQ4PyR5dmw0LNOhRoojyKDHfTPD/view?usp=sharing"
+    },
+    {
+        "id": 5,
+        "name": "Lect 19 - File Handing Interface and file Management",
+        "link": "https://docs.google.com/presentation/d/17n7X9hA8V1yiOFWYzC2VxMHPpoRmjV57/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 6,
+        "name": "OS_FULL_Ankit",
+        "link": "https://drive.google.com/file/d/1wQs4gVkwoSQgw64uBRQgkNbrHuAPjawv/view?usp=sharing"
+    },
+    {
+        "id": 7,
+        "name": "OS_Tutorial 1",
+        "link": "https://drive.google.com/file/d/1khIrP9SvhE0ezQYdQ3WWYphe7A3DFmdn/view?usp=sharing"
+    },
+    {
+        "id": 8,
+        "name": "System calls for Process management",
+        "link": "https://drive.google.com/file/d/1flekTk0vf8__fpZzCuwvn-KuzCpT0-a1/view?usp=sharing"
+    },
+    {
+        "id": 9,
+        "name": "unixcmds",
+        "link": "https://drive.google.com/file/d/1TxYFvP9KRqbaFjmLJbk9GOXP5kScvJrp/view?usp=sharing"
+    },
+    {
+        "id": 10,
+        "name": "ch1",
+        "link": "https://docs.google.com/presentation/d/10RFkPXBO8XFhmEPYspSlkWl8mJ9OTSQl/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 11,
+        "name": "ch2",
+        "link": "https://docs.google.com/presentation/d/1q1wrZXPf_TY_CqCzLKTfapBz8AXSIbNC/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 12,
+        "name": "ch3",
+        "link": "https://docs.google.com/presentation/d/1cT42xM30cxg7kHtYhgGIwkoutlLzMh2W/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 13,
+        "name": "ch4",
+        "link": "https://docs.google.com/presentation/d/1dygXkrq9gqvdpO-mKPYCxdAh3IUp8mkh/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 14,
+        "name": "ch5",
+        "link": "https://docs.google.com/presentation/d/1GtXxhse-wMqSaFkbkLKO0QbgHbWWkEPn/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 15,
+        "name": "ch6",
+        "link": "https://docs.google.com/presentation/d/1_jkTk2UtRXuTuVDS3jfORJVP8oAtv1Hn/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 16,
+        "name": "ch7",
+        "link": "https://docs.google.com/presentation/d/1d_JHB6f6wzFupyn3fsW9vT8akiN833Y0/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 17,
+        "name": "ch8",
+        "link": "https://docs.google.com/presentation/d/17bBxoVcXI1nD75UwAf3_OIVtE-5mZeYM/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 18,
+        "name": "ch9",
+        "link": "https://docs.google.com/presentation/d/1nRsj_r7Hbt-DKng7VNYsiqAI-XbfFfz7/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 19,
+        "name": "ch10",
+        "link": "https://docs.google.com/presentation/d/1aHsguFdmIOnmM-Btp4z4pyfFd1Qvpw8m/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 20,
+        "name": "ch11",
+        "link": "https://docs.google.com/presentation/d/1AxXhjYJRnrt2hjNMl3UbtIIM9Az_caby/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 21,
+        "name": "ch12",
+        "link": "https://docs.google.com/presentation/d/1SkKcWde82mfQpIf5U76t-luGhx9G7p82/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 22,
+        "name": "ch13",
+        "link": "https://docs.google.com/presentation/d/1WBoFAqMZ2SANJ9BR40jn8d4Sdqtg8dUn/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 23,
+        "name": "ch14",
+        "link": "https://docs.google.com/presentation/d/1Dl9tCnf0fqWuc-I6-tgChocKyNmnXFt0/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 24,
+        "name": "ch15",
+        "link": "https://docs.google.com/presentation/d/1KksnrHSoIJ3WYmQlO2u4HmSuMlb3cvwM/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 25,
+        "name": "ch16",
+        "link": "https://docs.google.com/presentation/d/1hT-7Vh9GwD7xzGJHdJ8TnM2UBG731npJ/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 26,
+        "name": "ch17",
+        "link": "https://docs.google.com/presentation/d/1EdKVxltZZJrRRGSQGD_TRMWxKjYW-LQO/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 27,
+        "name": "ch18",
+        "link": "https://docs.google.com/presentation/d/1LMlg1VDFYHju9-J62icnDKW1xuUH5nrd/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
     }
 ]

@@ -1,22 +1,132 @@
 [
     {
         "id": 1,
-        "name": "Memory",
-        "link": "https://drive.google.com/file/d/1BOEUFtDQj7-mjBFk9t9i9MzV_MQHXm9A/view?usp=sharing"
+        "name": "Performance Measurement",
+        "link": "https://drive.google.com/file/d/1mgpDpuq4dEforsL-E2z5oq_n__MQX-AG/view?usp=sharing"
     },
     {
         "id": 2,
-        "name": "File 2",
-        "link": "https://example.com/file2.pdf"
+        "name": "Performance Numericals",
+        "link": "https://drive.google.com/file/d/1OfhNfhgtZVPPX6ZwoK5cJwVNqH5XvLSj/view?usp=sharing"
     },
     {
         "id": 3,
-        "name": "File 3",
-        "link": "https://example.com/file3.pdf"
+        "name": "Virtual Memory Scheme",
+        "link": "https://drive.google.com/file/d/1LRGoQxWNF4OC5uA0B1pvG1VMsFbZtl4X/view?usp=sharing"
     },
     {
         "id": 4,
-        "name": "File 4",
-        "link": "https://example.com/file4.pdf"
+        "name": "Ankit_end_coa",
+        "link": "https://drive.google.com/file/d/1JMXxmJIsSYdgCZc03eHg6Hzsdkl547td/view?usp=sharing"
+    },
+    {
+        "id": 5,
+        "name": "Ankit_mid_coa",
+        "link": "https://drive.google.com/file/d/11k6H024x91dCkS6WlApHLKbNI4hWJ6sj/view?usp=sharing"
+    },
+    {
+        "id": 6,
+        "name": "Booth Algorithm",
+        "link": "https://drive.google.com/file/d/16n4GXikTU4UAsQLd4G8CNgwjxH4KIRko/view?usp=sharing"
+    },
+    {
+        "id": 7,
+        "name": "Vonneumann Arch.",
+        "link": "https://drive.google.com/file/d/1shJAuiZPKKQwSdvkKjdpdioEhif6UwK7/view?usp=sharing"
+    },
+    {
+        "id": 8,
+        "name": "ISA",
+        "link": "https://drive.google.com/file/d/1st7NYx-RoM2065_W6CT9BxWD9HJreZU5/view?usp=sharing"
+    },
+    {
+        "id": 9,
+        "name": "Addressing Modes",
+        "link": "https://drive.google.com/file/d/1Plb2a_jgfKp9tdk_E5FjAZfT9qoI7Fq6/view?usp=sharing"
+    },
+    {
+        "id": 10,
+        "name": "Opcode Encoding",
+        "link": "https://drive.google.com/file/d/1sjWJlSHJ6VBh3FNSreOHaCawa6K7E7I0/view?usp=sharing"
+    },
+    {
+        "id": 11,
+        "name": "ALU design",
+        "link": "https://drive.google.com/file/d/12xVro1_EezXoNko5lQG1eeuRHNt-VUtI/view?usp=sharing"
+    },
+    {
+        "id": 12,
+        "name": "NumberPresentation_FP",
+        "link": "https://drive.google.com/file/d/1NR_UCXnjZ-buSAHiHA5idT1WJiSlX5Lg/view?usp=sharing"
+    },
+    {
+        "id": 13,
+        "name": "Floating point Notes",
+        "link": "https://drive.google.com/file/d/12Y3VSg2NUFUGo3bQ41eVYOlyxIw82upR/view?usp=sharing"
+    },
+    {
+        "id": 14,
+        "name": "CU Design",
+        "link": "https://drive.google.com/file/d/1PTVUnFPWE8wDoE-HW7R-iED9qE6E8IFJ/view?usp=sharing"
+    },
+    {
+        "id": 15,
+        "name": "Processor Design",
+        "link": "https://drive.google.com/file/d/1ZcBSW946ITny_akpxmEgxk4Px2c7NK3K/view?usp=sharing"
+    },
+    {
+        "id": 16,
+        "name": "IO org",
+        "link": "https://drive.google.com/file/d/1Ikd9zZM8nMYfJVfQELL4isqjOwWKXQEN/view?usp=sharing"
+    },
+    {
+        "id": 17,
+        "name": "MemoryMgmt",
+        "link": "https://drive.google.com/file/d/1YCuaSKWM0v-HNOLX4nei0oK08FyJVEQy/view?usp=sharing"
+    },
+    {
+        "id": 18,
+        "name": "Performance",
+        "link": "https://drive.google.com/file/d/1GIujnkxW0gGPXbDHHbuYIEtRNB-nV6ix/view?usp=sharing"
+    },
+    {
+        "id": 19,
+        "name": "Pipelining",
+        "link": "https://drive.google.com/file/d/1HH9YnJ-UVIkJ_3ETk9VdZ-PO_-QzkObd/view?usp=sharing"
+    },
+    {
+        "id": 20,
+        "name": "Pipelining",
+        "link": "https://drive.google.com/file/d/1LdmQ5Qai7DIHc474fW7yEtwfTf32dtTz/view?usp=sharing"
+    },
+    {
+        "id": 21,
+        "name": "Virtual Memory",
+        "link": "https://drive.google.com/file/d/1EzKFoJb7-xUs814I998Y1lXPUpQuzDit/view?usp=sharing"
+    },
+    {
+        "id": 22,
+        "name": "Computer arithmetic",
+        "link": "https://docs.google.com/presentation/d/1uN45UddcffpUWpcgufS_g-iXlRD3AKDu/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 23,
+        "name": "Computer Organization and Architecture 10th - William Stallings",
+        "link": "https://drive.google.com/file/d/1a-CZ_qvpWFUEdZQUoYX2--_fNJJh26nr/view?usp=sharing"
+    },
+    {
+        "id": 24,
+        "name": "MIPS syscall functions",
+        "link": "https://drive.google.com/file/d/1s36C2dFsgZuADV4cKtrK7-wT8sxqE0XN/view?usp=sharing"
+    },
+    {
+        "id": 25,
+        "name": "Topic 2 Performance",
+        "link": "https://docs.google.com/presentation/d/19eZImpKteu_enZKp04tRJRqwGby2TAPL/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 26,
+        "name": "Unacademy-COA",
+        "link": "https://drive.google.com/file/d/1x0h7C4cXkfUjELVL3ogfSIMYBod8Kw4E/view?usp=sharing"
     }
 ]
