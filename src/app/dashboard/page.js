@@ -3,7 +3,7 @@ import Card from "@/components/card";
 
 export default function Dashboard() {
   return (
-    <div className="relative w-screen min-h-screen bg-gray-200">
+    <div className="relative w-screen min-h-screen bg-gray-200 dark:bg-gray-900">
       <Header name="Select your Department" />
 
       <div className="grid grid-cols-4 gap-6 p-6">
