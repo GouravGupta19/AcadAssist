@@ -14,10 +14,6 @@ export default function BookmarkNavButton() {
       <button
         title="My Bookmarks"
         style={{
-          position: "fixed",
-          top: "16px",
-          left: "16px",
-          zIndex: 200,
           width: "44px",
           height: "44px",
           borderRadius: "50%",

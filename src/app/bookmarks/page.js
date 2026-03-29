@@ -3,6 +3,8 @@
 import { useBookmarks } from "@/components/BookmarkContext";
 import { useTheme } from "@/components/ThemeProvider";
 import Link from "next/link";
+import DarkModeToggle from "@/components/DarkModeToggle";
+import BookmarkNavButton from "@/components/BookmarkNavButton";
 
 export default function BookmarksPage() {
   const { bookmarks, removeBookmark } = useBookmarks();
@@ -29,9 +31,16 @@ export default function BookmarksPage() {
           alignItems: "center",
           justifyContent: "space-between",
           boxShadow: "0 4px 20px rgba(0,0,0,0.3)",
+          position: "relative",
         }}
       >
-        <div style={{ display: "flex", alignItems: "center", gap: "0.75rem" }}>
+        {/* Bookmark nav button — top-left */}
+        <div style={{ position: "absolute", top: "18px", left: "16px" }}>
+          <BookmarkNavButton />
+        </div>
+
+        {/* Centered title */}
+        <div style={{ flex: 1, display: "flex", justifyContent: "center", alignItems: "center", gap: "0.75rem" }}>
           <span style={{ fontSize: "28px" }}>🔖</span>
           <h1
             style={{
@@ -45,23 +54,28 @@ export default function BookmarksPage() {
             My Bookmarks
           </h1>
         </div>
-        <Link
-          href="/dashboard"
-          style={{
-            color: "#93c5fd",
-            textDecoration: "none",
-            fontSize: "0.95rem",
-            fontWeight: 600,
-            background: "rgba(255,255,255,0.08)",
-            padding: "8px 18px",
-            borderRadius: "8px",
-            backdropFilter: "blur(8px)",
-            border: "1px solid rgba(255,255,255,0.12)",
-            transition: "background 0.2s",
-          }}
-        >
-          ← Back to Dashboard
-        </Link>
+
+        {/* Right side: back link + dark mode toggle */}
+        <div style={{ display: "flex", alignItems: "center", gap: "0.75rem", position: "absolute", top: "18px", right: "16px" }}>
+          <Link
+            href="/dashboard"
+            style={{
+              color: "#93c5fd",
+              textDecoration: "none",
+              fontSize: "0.95rem",
+              fontWeight: 600,
+              background: "rgba(255,255,255,0.08)",
+              padding: "8px 18px",
+              borderRadius: "8px",
+              backdropFilter: "blur(8px)",
+              border: "1px solid rgba(255,255,255,0.12)",
+              transition: "background 0.2s",
+            }}
+          >
+            ← Back to Dashboard
+          </Link>
+          <DarkModeToggle />
+        </div>
       </div>
 
       {/* Content */}

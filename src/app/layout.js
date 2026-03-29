@@ -1,9 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import ThemeProvider from "@/components/ThemeProvider";
-import DarkModeToggle from "@/components/DarkModeToggle";
 import BookmarkProvider from "@/components/BookmarkContext";
-import BookmarkNavButton from "@/components/BookmarkNavButton";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -28,8 +26,6 @@ export default function RootLayout({ children }) {
       >
         <ThemeProvider>
           <BookmarkProvider>
-            <DarkModeToggle />
-            <BookmarkNavButton />
             {children}
           </BookmarkProvider>
         </ThemeProvider>
