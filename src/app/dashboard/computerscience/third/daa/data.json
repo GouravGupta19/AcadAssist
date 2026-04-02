@@ -1,202 +1,197 @@
 [
     {
         "id": 1,
-        "name": "File 1.0",
-        "link": ""
+        "name": "1_IntroClass",
+        "link": "https://drive.google.com/file/d/1q_XjcpH_eGxv-uu7xVbL5qJvm3wDWPcg/view?usp=drive_link"
     },
     {
         "id": 2,
-        "name": "File 2",
-        "link": ""
+        "name": "2_IntroProblemSolving",
+        "link": "https://drive.google.com/file/d/1qX1Htsyrogn81kE0iO7Qi7pVqyokVGVN/view?usp=drive_link"
     },
     {
         "id": 3,
-        "name": "File 3",
-        "link": ""
+        "name": "3_Intro_Algo",
+        "link": "https://drive.google.com/file/d/1qbBoxuirfHLOWzeljVm6mUBatKu9u-rd/view?usp=drive_link"
     },
     {
         "id": 4,
-        "name": "File 4",
-        "link": ""
+        "name": "4_IntroADT",
+        "link": "https://drive.google.com/file/d/1qexkHV3Y6EWvzbBz83LIaRPs5W-E74Jo/view?usp=drive_link"
     },
     {
         "id": 5,
-        "name": "File 5",
-        "link": ""
+        "name": "5_AsymptoticNotations",
+        "link": "https://drive.google.com/file/d/1Q3b-35FK-S2lpPVb3V_3-vVFb6VKGsB5/view?usp=drive_link"
     },
     {
         "id": 6,
-        "name": "File 6",
-        "link": ""
+        "name": "6_MergeSort",
+        "link": "https://drive.google.com/file/d/1QFrZ8XVHZItpV6Uz_qRAdWJGy5qJq_mX/view?usp=drive_link"
     },
     {
         "id": 7,
-        "name": "File 7",
-        "link": ""
+        "name": "6_QuickSort",
+        "link": "https://drive.google.com/file/d/1Q1gLU-6XFJ8lcwnA9Hhf18WWK5SwMvhP/view?usp=drive_link"
     },
     {
         "id": 8,
-        "name": "File 8",
-        "link": ""
+        "name": "7_Applications of Heap I",
+        "link": "https://drive.google.com/file/d/1PoZ-mbiVb5Pz_bl7ILpm5gwLXEgGYW4X/view?usp=drive_link"
     },
     {
         "id": 9,
-        "name": "File 9",
-        "link": ""
+        "name": "7_Applications of Heap II",
+        "link": "https://drive.google.com/file/d/1PzTTL9r_evaBcxeQOSkXSTgV871V_WUo/view?usp=drive_link"
     },
     {
         "id": 10,
-        "name": "File 10",
-        "link": ""
+        "name": "7_Heap",
+        "link": "https://drive.google.com/file/d/1PltvrNZQ8iwagnbPo8norttHCQzPp4fG/view?usp=drive_link"
     },
     {
         "id": 11,
-        "name": "File 11",
-        "link": ""
+        "name": "8_BST",
+        "link": "https://drive.google.com/file/d/1Pf2aj6-0-Fy5kGINQxsyLfqUC2byQYtt/view?usp=drive_link"
     },
     {
         "id": 12,
-        "name": "File 12",
-        "link": ""
+        "name": "8_HBT_Implementation",
+        "link": "https://drive.google.com/file/d/1PezIve3oDgUTSmKe6jFbYypfptOIy0m7/view?usp=drive_link"
     },
     {
         "id": 13,
-        "name": "File 13",
-        "link": ""
+        "name": "9_LinearTimeSorting",
+        "link": "https://drive.google.com/file/d/1OFhVKr3TsrTl9QNJFmC3S-B1p3VlI1Sp/view?usp=drive_link"
     },
     {
         "id": 14,
-        "name": "File 14",
-        "link": ""
+        "name": "10_Divide&Conquer_PartI",
+        "link": "https://drive.google.com/file/d/1OGg9KOV6kU1zlkrhCebXmbQl4dCPvbfI/view?usp=drive_link"
     },
     {
         "id": 15,
-        "name": "File 15",
-        "link": ""
+        "name": "10_Divide&Conquer_PartII",
+        "link": "https://drive.google.com/file/d/1CzHQc11OMBUbu8teKdUi_WiWX-VoRQmX/view?usp=drive_link"
     },
     {
         "id": 16,
-        "name": "File 16",
-        "link": ""
+        "name": "10_Divide&Conquer",
+        "link": "https://drive.google.com/file/d/1Rr8Ze9168STQD7EBMLQ-yhlvhnRiRauV/view?usp=drive_link"
     },
     {
         "id": 17,
-        "name": "File 17",
-        "link": ""
+        "name": "AVL",
+        "link": "https://drive.google.com/file/d/1huPB6cobhOYgyWa--0FYj8u5LTAps00c/view?usp=drive_link"
     },
     {
         "id": 18,
-        "name": "File 18",
-        "link": ""
+        "name": "CSC303_BTree",
+        "link": "https://drive.google.com/file/d/1MSlQfXgvhwZK2XxWfKBr5iUVTLIP6jA3/view?usp=drive_link"
     },
     {
         "id": 19,
-        "name": "File 19",
-        "link": ""
+        "name": "CSC303_DynamicProgramming_MD_Final",
+        "link": "https://drive.google.com/file/d/1MU0UybEbUr12Ql3l4GddDPow-fmTMV7Y/view?usp=drive_link"
     },
     {
         "id": 20,
-        "name": "File 20",
-        "link": ""
+        "name": "CSC303_GreedyAlgo",
+        "link": "https://drive.google.com/file/d/1M_5nK-z4OeLHim-EcOrxgGyXqLnQeLWv/view?usp=drive_link"
     },
     {
         "id": 21,
-        "name": "File 21",
-        "link": ""
+        "name": "Hashing",
+        "link": "https://drive.google.com/file/d/1EfeGNkUpsLEp5z0FmBUb4J1ufjr3TfOw/view?usp=drive_link"
     },
     {
         "id": 22,
-        "name": "File 22",
-        "link": ""
+        "name": "syllabus1",
+        "link": "https://drive.google.com/file/d/1QMVRnzJ7hlLWLPtJ1_vuP8GIti6TF4Dk/view?usp=drive_link"
     },
     {
         "id": 23,
-        "name": "File 23",
-        "link": ""
+        "name": "convexhull",
+        "link": "https://drive.google.com/file/d/1-Ec_kLxnZbKdX1oZeilNl9lpJwip9ZyI/view?usp=drive_link"
     },
     {
         "id": 24,
-        "name": "File 24",
-        "link": ""
+        "name": "dp",
+        "link": "https://drive.google.com/file/d/1-CnDTeIDBdOUyEZvVjQPhESpYRNZzpIP/view?usp=drive_link"
     },
     {
         "id": 25,
-        "name": "File 25",
-        "link": ""
+        "name": "greedy",
+        "link": "https://drive.google.com/file/d/1-BxVWIVJ1EOhiZUZUcliWFltyBcMKLPW/view?usp=drive_link"
     },
     {
         "id": 26,
-        "name": "File 26",
-        "link": ""
+        "name": "hashing",
+        "link": "https://drive.google.com/file/d/1usHBBNBIj8WsV-NPyhPSKO1JjmBLnV46/view?usp=drive_link"
     },
     {
         "id": 27,
-        "name": "File 27",
-        "link": ""
+        "name": "mid",
+        "link": "https://drive.google.com/file/d/1SArI0ZuNwfARAUV4HYiXU-5T4PUbfE1u/view?usp=drive_link"
     },
     {
         "id": 28,
-        "name": "File 28",
-        "link": ""
+        "name": "Avl",
+        "link": "https://drive.google.com/file/d/1FGCH8wC8nPGM1r4Nk_TA3E8M-R3xoVNR/view?usp=drive_link"
     },
     {
         "id": 29,
-        "name": "File 29",
-        "link": ""
+        "name": "RedBlackTree",
+        "link": "https://drive.google.com/file/d/1FPDU6B7YyDXLf_pbTdQ8hIsOOmAkddel/view?usp=drive_link"
     },
     {
         "id": 30,
-        "name": "File 30",
-        "link": ""
+        "name": "algo_draft1",
+        "link": "https://drive.google.com/file/d/1ZlnkD8rGq7jpQM_7KxbvWFfpI6_44IpD/view?usp=drive_link"
     },
     {
         "id": 31,
-        "name": "File 31",
-        "link": ""
+        "name": "Algorithm Design and Analysis- I",
+        "link": "https://docs.google.com/document/d/1Rv0BGGAtMfNmiP9WvhBQM5BslFhSSCy5/edit?usp=drive_link&ouid=109901849188188627517&rtpof=true&sd=true"
     },
     {
         "id": 32,
-        "name": "File 32",
-        "link": ""
+        "name": "Chapter [Divide and Conqure] CSC303---6th september-2023",
+        "link": "https://drive.google.com/file/d/1MMsYtNCjLrt4yLTBYOJ0Acm5rvUQ8nLm/view?usp=drive_link"
     },
     {
         "id": 33,
-        "name": "File 33",
-        "link": ""
+        "name": "Chapter [Dynamic Programming] CSC303---24th October2024",
+        "link": "https://drive.google.com/file/d/1MMI_viVWl6lU5VUii20KkoHgQu76FfO6/view?usp=drive_link"
     },
     {
         "id": 34,
-        "name": "File 34",
-        "link": ""
+        "name": "Chapter [Greedy Algorithm] CSC303---5th November2024",
+        "link": "https://drive.google.com/file/d/1ML5ZtpN6oidGgUMwiq1l1LPI_Fj_vxsC/view?usp=drive_link"
     },
     {
         "id": 35,
-        "name": "File 35",
-        "link": ""
+        "name": "Chapter1 [Analysis of Algorithm] CSC303---27July-2023",
+        "link": "https://drive.google.com/file/d/1MR4X1XiLL4sDoicvm9BTA5H4LorV5wGP/view?usp=drive_link"
     },
     {
         "id": 36,
-        "name": "File 36",
-        "link": ""
+        "name": "AayushAnandAlgoNotes",
+        "link": "https://drive.google.com/file/d/1-9MxXUbpv5WMHqeDlakJ4u1LdRoarCRz/view?usp=drive_link"
     },
     {
         "id": 37,
-        "name": "File 37",
-        "link": ""
+        "name": "convex lb",
+        "link": "https://drive.google.com/file/d/1_gLEtN4-tt_jMJ2bEj4Pzvew3w75T5Hk/view?usp=drive_link"
     },
     {
         "id": 38,
-        "name": "File 38",
-        "link": ""
+        "name": "dsa syllabus",
+        "link": "https://drive.google.com/file/d/1RoaxTdLnHq7njQFn7jL3-cJqiZgq0ssu/view?usp=drive_link"
     },
     {
         "id": 39,
-        "name": "File 39",
-        "link": ""
-    },
-    {
-        "id": 40,
-        "name": "File 40",
-        "link": ""
+        "name": "MaxHeapImplementation",
+        "link": "https://drive.google.com/file/d/1FRKEiAbclk2bIIm726-eevE6E-EpsFxZ/view?usp=drive_link"
     }
 ]

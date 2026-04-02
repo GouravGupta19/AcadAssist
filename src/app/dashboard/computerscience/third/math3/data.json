@@ -1,202 +1,142 @@
 [
-    {
-        "id": 1,
-        "name": "File 1.0",
-        "link": ""
-    },
-    {
-        "id": 2,
-        "name": "File 2",
-        "link": ""
-    },
-    {
-        "id": 3,
-        "name": "File 3",
-        "link": ""
-    },
-    {
-        "id": 4,
-        "name": "File 4",
-        "link": ""
-    },
-    {
-        "id": 5,
-        "name": "File 5",
-        "link": ""
-    },
-    {
-        "id": 6,
-        "name": "File 6",
-        "link": ""
-    },
-    {
-        "id": 7,
-        "name": "File 7",
-        "link": ""
-    },
-    {
-        "id": 8,
-        "name": "File 8",
-        "link": ""
-    },
-    {
-        "id": 9,
-        "name": "File 9",
-        "link": ""
-    },
-    {
-        "id": 10,
-        "name": "File 10",
-        "link": ""
-    },
-    {
-        "id": 11,
-        "name": "File 11",
-        "link": ""
-    },
-    {
-        "id": 12,
-        "name": "File 12",
-        "link": ""
-    },
-    {
-        "id": 13,
-        "name": "File 13",
-        "link": ""
-    },
-    {
-        "id": 14,
-        "name": "File 14",
-        "link": ""
-    },
-    {
-        "id": 15,
-        "name": "File 15",
-        "link": ""
-    },
-    {
-        "id": 16,
-        "name": "File 16",
-        "link": ""
-    },
-    {
-        "id": 17,
-        "name": "File 17",
-        "link": ""
-    },
-    {
-        "id": 18,
-        "name": "File 18",
-        "link": ""
-    },
-    {
-        "id": 19,
-        "name": "File 19",
-        "link": ""
-    },
-    {
-        "id": 20,
-        "name": "File 20",
-        "link": ""
-    },
-    {
-        "id": 21,
-        "name": "File 21",
-        "link": ""
-    },
-    {
-        "id": 22,
-        "name": "File 22",
-        "link": ""
-    },
-    {
-        "id": 23,
-        "name": "File 23",
-        "link": ""
-    },
-    {
-        "id": 24,
-        "name": "File 24",
-        "link": ""
-    },
-    {
-        "id": 25,
-        "name": "File 25",
-        "link": ""
-    },
-    {
-        "id": 26,
-        "name": "File 26",
-        "link": ""
-    },
-    {
-        "id": 27,
-        "name": "File 27",
-        "link": ""
-    },
-    {
-        "id": 28,
-        "name": "File 28",
-        "link": ""
-    },
-    {
-        "id": 29,
-        "name": "File 29",
-        "link": ""
-    },
-    {
-        "id": 30,
-        "name": "File 30",
-        "link": ""
-    },
-    {
-        "id": 31,
-        "name": "File 31",
-        "link": ""
-    },
-    {
-        "id": 32,
-        "name": "File 32",
-        "link": ""
-    },
-    {
-        "id": 33,
-        "name": "File 33",
-        "link": ""
-    },
-    {
-        "id": 34,
-        "name": "File 34",
-        "link": ""
-    },
-    {
-        "id": 35,
-        "name": "File 35",
-        "link": ""
-    },
-    {
-        "id": 36,
-        "name": "File 36",
-        "link": ""
-    },
-    {
-        "id": 37,
-        "name": "File 37",
-        "link": ""
-    },
-    {
-        "id": 38,
-        "name": "File 38",
-        "link": ""
-    },
-    {
-        "id": 39,
-        "name": "File 39",
-        "link": ""
-    },
-    {
-        "id": 40,
-        "name": "File 40",
-        "link": ""
-    }
+  {
+    "id": 1,
+    "name": "Complex Analysis 2",
+    "link": "https://drive.google.com/file/d/1D22xi9Q__aXColI9w9k22IO2sXKMwJLT/view"
+  },
+  {
+    "id": 2,
+    "name": "Complex Notes PDF",
+    "link": "https://drive.google.com/file/d/1mlmNHaciQqrgz8as44tux-yfbPLdGlnY/view"
+  },
+  {
+    "id": 3,
+    "name": "Pinaki Complex Notes",
+    "link": "https://drive.google.com/file/d/1TP5pf3l64lTzga6gC8BFOhI7qHJiBzde/view"
+  },
+  {
+    "id": 4,
+    "name": "Complex Mid Only",
+    "link": "https://drive.google.com/file/d/13p7HCnilnTT9GnTzyGhhq4cRI0FW6Svf/view"
+  },
+
+  {
+    "id": 5,
+    "name": "Integration",
+    "link": "https://drive.google.com/file/d/1RxXD-myR-GbAmMYmM2f7UoA5jJM00fTT/view"
+  },
+
+  {
+    "id": 6,
+    "name": "Anita Pal PDE",
+    "link": "https://drive.google.com/file/d/1skkc1keda-hpdVKdqieKlUY_7qf2FYKo/view"
+  },
+  {
+    "id": 7,
+    "name": "PDE Lecture 1",
+    "link": "https://drive.google.com/file/d/1sooGtEMCOTXXVMquIr5PMCAeJVT7HZR-/view"
+  },
+  {
+    "id": 8,
+    "name": "PDE Lecture 2",
+    "link": "https://drive.google.com/file/d/1snfQGUZ9dntnD5IBN6gzS1OINk96nk0R/view"
+  },
+  {
+    "id": 9,
+    "name": "PDE Lecture 3 and 4",
+    "link": "https://drive.google.com/file/d/1srsNyTItgJsZMm3lRt_09WIx7u8VD1at/view"
+  },
+  {
+    "id": 10,
+    "name": "PDE Lecture 5",
+    "link": "https://drive.google.com/file/d/1ssL88_LSytuE3_Re2iY2s8K_ccg_S4KQ/view"
+  },
+  {
+    "id": 11,
+    "name": "PDE Lecture 6",
+    "link": "https://drive.google.com/file/d/1sqR3E3aoqpR_mTmcnJtgZwJwNaP8CmPK/view"
+  },
+  {
+    "id": 12,
+    "name": "PDE Practice Guide",
+    "link": "https://drive.google.com/file/d/10odgyhkPXFhIBiD5xlcODEvlyb1WWYFc/view"
+  },
+  {
+    "id": 13,
+    "name": "PDE Exercise 1",
+    "link": "https://drive.google.com/file/d/1POY1v9y6LpKzJV9ok-CHkuC5xiK4muBQ/view"
+  },
+  {
+    "id": 14,
+    "name": "PDE Exercise 2",
+    "link": "https://drive.google.com/file/d/1s37I2vm-HFAD-giqFXl3LqoN75jgdAZO/view"
+  },
+
+  {
+    "id": 15,
+    "name": "Problem Set",
+    "link": "https://drive.google.com/file/d/1yQELOdza_RHamue_8gbov1GfcYT_Xj5Q/view"
+  },
+
+  {
+    "id": 16,
+    "name": "MAC Odd 2019-20",
+    "link": "https://drive.google.com/file/d/1TVs6CO7jR4fqRW9QDKcrzw0kqWC7b1mq/view"
+  },
+  {
+    "id": 17,
+    "name": "MAC Odd 2022-23",
+    "link": "https://drive.google.com/file/d/1TdAyx1219p-zHC8ySKd9xoEiJCHanJTs/view"
+  },
+  {
+    "id": 18,
+    "name": "MAC Midterm 2023-24",
+    "link": "https://drive.google.com/file/d/14C-45dE8IkAVYM6tR3aJBWCnot5UGuxS/view"
+  },
+  {
+    "id": 19,
+    "name": "Maths Endterm 2017-18",
+    "link": "https://drive.google.com/file/d/1TRAoYfx9koQ-ZmRJiMEFLxh5zUpaDg_Q/view"
+  },
+  {
+    "id": 20,
+    "name": "Maths Midterm 2018-19",
+    "link": "https://drive.google.com/file/d/1TTNAAkIb1TV6Wv8ism12bQstJjApE5k-/view"
+  },
+
+  {
+    "id": 21,
+    "name": "Chuchi Maths Notes",
+    "link": "https://drive.google.com/file/d/1rIaOWPi4m3IXjitMaXtcaY0l58qYVT_t/view"
+  },
+  {
+    "id": 22,
+    "name": "Convex Set and Combination",
+    "link": "https://drive.google.com/file/d/1NK__esD-OnpWxwGAVGe2MHjTgBniWXw7/view"
+  },
+  {
+    "id": 23,
+    "name": "Erwin Kreyszig Book",
+    "link": "https://drive.google.com/file/d/1jSRBOWmR8YRnhKVcDbxrxu-GDmbolnet/view"
+  },
+  {
+    "id": 24,
+    "name": "LPP 1",
+    "link": "https://drive.google.com/file/d/1NOx6GIiN6z2Hx_pfw6oVEMGUXNXp8_gx/view"
+  },
+  {
+    "id": 25,
+    "name": "LPP",
+    "link": "https://drive.google.com/file/d/1tIGCh-u5gPiS8VtDkx3eS9tlp_6sGcmB/view"
+  },
+  {
+    "id": 26,
+    "name": "Numerical Analysis",
+    "link": "https://drive.google.com/file/d/1inAys3FDx8xzjPy0iOeQLnVH5diZj80F/view"
+  },
+  {
+    "id": 27,
+    "name": "Maths Syllabus",
+    "link": "https://drive.google.com/file/d/1NLztTSAkjvdE1rLPO_CEDJHz2EvXbSgc/view"
+  }
 ]
