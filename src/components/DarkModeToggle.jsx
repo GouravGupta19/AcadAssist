@@ -11,10 +11,6 @@ export default function DarkModeToggle() {
       aria-label={dark ? "Switch to light mode" : "Switch to dark mode"}
       title={dark ? "Switch to light mode" : "Switch to dark mode"}
       style={{
-        position: "fixed",
-        top: "16px",
-        right: "16px",
-        zIndex: 200,
         width: "44px",
         height: "44px",
         borderRadius: "50%",
