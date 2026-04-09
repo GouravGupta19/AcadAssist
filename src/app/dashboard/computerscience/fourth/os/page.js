@@ -5,7 +5,7 @@ import osFiles from "./data.json";
 
 export default function OS() {
     return (
-        <div className="flex flex-col w-full h-screen bg-white">
+        <div className="flex flex-col w-full h-screen bg-white dark:bg-gray-900">
             <Header name="Operating System" />
 
             <div className="flex flex-col w-full flex-1 overflow-y-auto">

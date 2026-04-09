@@ -5,7 +5,7 @@ import tocFiles from "./data.json";
 
 export default function TOC() {
     return (
-        <div className="flex flex-col w-full h-screen bg-white">
+        <div className="flex flex-col w-full h-screen bg-white dark:bg-gray-900">
             <Header name="Theory of Computation" />
 
             <div className="flex flex-col w-full flex-1 overflow-y-auto">

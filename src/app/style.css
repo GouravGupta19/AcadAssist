@@ -10,6 +10,10 @@
   padding: 2rem;
 }
 
+.dark .main-container {
+  background: linear-gradient(135deg, hsl(222, 47%, 11%), hsl(217, 33%, 17%));
+}
+
 /* Header */
 .header {
   text-align: center;
@@ -22,9 +26,17 @@
   margin-bottom: 0.5rem;
 }
 
+.dark .title {
+  color: #93c5fd;
+}
+
 .subtitle {
   font-size: 1.1rem;
   color: #475569;
+}
+
+.dark .subtitle {
+  color: #94a3b8;
 }
 
 /* Grid Layout */
@@ -62,6 +74,11 @@
   color: #1e40af;
 }
 
+.dark .contributor-card {
+  background: linear-gradient(135deg, #1e3a5f, #1e3a8a);
+  color: #93c5fd;
+}
+
 .contributor-card:hover {
   transform: translateY(-8px) scale(1.03);
   box-shadow: 0 16px 40px rgba(30, 64, 175, 0.25);
@@ -71,6 +88,11 @@
 .dashboard-card {
   background: linear-gradient(135deg, #e2e8f0, #cbd5f5);
   color: #1e293b;
+}
+
+.dark .dashboard-card {
+  background: linear-gradient(135deg, #1e293b, #2d3748);
+  color: #e2e8f0;
 }
 
 .dashboard-card:hover {
