@@ -73,7 +73,7 @@ export default function Footer() {
         const fetchVisitorCount = async () => {
             try {
                 const res = await fetch('/api/visit', {
-                    method: 'POST',
+                    method: 'GET',
                     headers: { 'Content-Type': 'application/json' },
                 });
                 if (res.ok) {

@@ -4,7 +4,7 @@ import path from 'path';
 
 const dataFilePath = path.join(process.cwd(), 'visits.json');
 
-export async function POST(request) {
+export async function GET(request) {
     try {
         let fileExists = true;
         try {
