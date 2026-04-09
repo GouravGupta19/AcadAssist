@@ -1,30 +1,17 @@
 import { NextResponse } from 'next/server';
-import { promises as fs } from 'fs';
-import path from 'path';
 
-const dataFilePath = path.join(process.cwd(), 'visits.json');
+let visitCount = 0;
 
 export async function GET(request) {
     try {
-        let fileExists = true;
-        try {
-            await fs.access(dataFilePath);
-        } catch (error) {
-            fileExists = false;
+        const { searchParams } = new URL(request.url);
+        const increment = searchParams.get('increment');
+
+        if (increment === 'true') {
+            visitCount += 1;
         }
 
-        if (!fileExists) {
-            await fs.writeFile(dataFilePath, JSON.stringify({ count: 0 }));
-        }
-
-        const fileData = await fs.readFile(dataFilePath, 'utf8');
-        const data = JSON.parse(fileData);
-        
-        data.count += 1;
-
-        await fs.writeFile(dataFilePath, JSON.stringify(data));
-
-        return NextResponse.json({ count: data.count });
+        return NextResponse.json({ count: visitCount });
     } catch (error) {
         console.error('Error handling visit counter:', error);
         return NextResponse.json({ error: 'Failed to update visit count' }, { status: 500 });

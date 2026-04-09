@@ -72,7 +72,13 @@ export default function Footer() {
     useEffect(() => {
         const fetchVisitorCount = async () => {
             try {
-                const res = await fetch('/api/visit', {
+                let increment = 'false';
+                if (window.location.pathname === '/' && !sessionStorage.getItem('hasVisited')) {
+                    increment = 'true';
+                    sessionStorage.setItem('hasVisited', 'true');
+                }
+
+                const res = await fetch(`/api/visit?increment=${increment}`, {
                     method: 'GET',
                     headers: { 'Content-Type': 'application/json' },
                 });
