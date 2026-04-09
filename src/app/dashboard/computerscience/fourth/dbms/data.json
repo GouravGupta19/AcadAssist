@@ -1,22 +1,107 @@
 [
     {
         "id": 1,
-        "name": "Memory",
-        "link": "https://drive.google.com/file/d/1BOEUFtDQj7-mjBFk9t9i9MzV_MQHXm9A/view?usp=sharing"
+        "name": "[FINAL]QUERY OPTIMIZATION-6-1",
+        "link": "https://docs.google.com/presentation/d/1SwLuNhWPD9-q528RC5Y39QwLn5IDbxGP/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
     },
     {
         "id": 2,
-        "name": "File 2",
-        "link": "https://example.com/file2.pdf"
+        "name": "1_IntroClass",
+        "link": "https://drive.google.com/file/d/1a1jLVa-g3HhvRxDlTdY-nu3ipzCvu_G7/view?usp=sharing"
     },
     {
         "id": 3,
-        "name": "File 3",
-        "link": "https://example.com/file3.pdf"
+        "name": "2_ch1",
+        "link": "https://drive.google.com/file/d/1lhZFF5Q4cCk9sz-f5Ij2Lmx5TlbykCKj/view?usp=sharing"
     },
     {
         "id": 4,
-        "name": "File 4",
-        "link": "https://example.com/file4.pdf"
+        "name": "3_ch2",
+        "link": "https://drive.google.com/file/d/1s3FpWfMD2A9eBSOZoUNo5vEOO4yVPpZX/view?usp=sharing"
+    },
+    {
+        "id": 5,
+        "name": "3_Formal Relational Query Language",
+        "link": "https://drive.google.com/file/d/1sAe88iK6KjzBKkjjZdA_xo3DllB1nAp9/view?usp=sharing"
+    },
+    {
+        "id": 6,
+        "name": "4_ch3",
+        "link": "https://drive.google.com/file/d/1s63tG3WHRYFx8oOtyMtUKes9VFjxpcIm/view?usp=sharing"
+    },
+    {
+        "id": 7,
+        "name": "5_ch4",
+        "link": "https://drive.google.com/file/d/1XSHTemGFUMCuajLtly9AqtmLCxte_4ke/view?usp=sharing"
+    },
+    {
+        "id": 8,
+        "name": "10_Concurrency Control",
+        "link": "https://drive.google.com/file/d/17ilNvGhTKTnFI2RV3k-qTwNDDPCHPpJG/view?usp=sharing"
+    },
+    {
+        "id": 9,
+        "name": "11_Recovery Systems",
+        "link": "https://drive.google.com/file/d/1r8b4YoWPkgLNNU1kp-lWG4kkdr8Ip81w/view?usp=sharing"
+    },
+    {
+        "id": 10,
+        "name": "all topic",
+        "link": "https://docs.google.com/document/d/1m9BqbAeSxz8EP9uvkvKdCmFNMX149Q7_/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 11,
+        "name": "ch17",
+        "link": "https://docs.google.com/presentation/d/1OnBu6dDJ5t1-9oMvLvuFXgh7aUACPmBK/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 12,
+        "name": "Continuous Assessment1",
+        "link": "https://drive.google.com/file/d/1tslbUNvftK1q2KxAmj19TKshvL8piSea/view?usp=sharing"
+    },
+    {
+        "id": 13,
+        "name": "DBMS - Commit Protocols",
+        "link": "https://drive.google.com/file/d/1vx_m5ftU4isBjxZ4t-BgGUxoCxBjzOWj/view?usp=sharing"
+    },
+    {
+        "id": 14,
+        "name": "DBMS_class_Notes_ans",
+        "link": "https://docs.google.com/document/d/1kHyWjRHMhhWvJlaA2srfDW7-yMTnuZQm/edit?usp=sharing&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 15,
+        "name": "DBMS_ClassNotes_MidSems",
+        "link": "https://drive.google.com/file/d/1rBKrAQCiW5Ut3HaoXy8icCdmQ8hqi2l5/view?usp=sharing"
+    },
+    {
+        "id": 16,
+        "name": "Join Dependencies",
+        "link": "https://drive.google.com/file/d/1rlzGMKJNKVUJX4IiaQJyc-snkek7_avC/view?usp=sharing"
+    },
+    {
+        "id": 17,
+        "name": "PL_SQL (1)",
+        "link": "https://drive.google.com/file/d/1SXhgKxAQ3kL-d0XlYrsZ_ZtyMDFJRwu5/view?usp=sharing"
+    },
+    {
+        "id": 18,
+        "name": "QUERY OPTIMIZATION",
+        "link": "https://drive.google.com/file/d/1vibWra8cTkum1gsraMaGRCQ2W4ICPZuL/view?usp=sharing"
+    },
+    {
+        "id": 19,
+        "name": "SQL Cursors and Triggers",
+        "link": "https://drive.google.com/file/d/1yK6s6zwe_l2WD-i3ZrwaTWx4Nx4Gx44A/view?usp=sharing"
+    },
+    {
+        "id": 20,
+        "name": "SQL_full",
+        "link": "https://drive.google.com/file/d/1hjz64nzyGyq7xzclZNaEBu6MfaWm1a6F/view?usp=sharing"
+    },
+    {
+        "id": 21,
+        "name": "Syllabus_Database Management Systems & Lab",
+        "link": "https://drive.google.com/file/d/1lojzDTsRdVBk0LNClwQNCjDvySG3tyWO/view?usp=sharing"
     }
 ]

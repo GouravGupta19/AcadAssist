@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "CSE_PYQs_sem5_2025",
+        "link": "https://drive.google.com/file/d/11k38C8n09TMtAt6lFWtl9DZ8LGHDNCko/view?usp=drive_link"
+    },
+    {
+        "id": 2,
+        "name": "Algorithm Splay tree",
+        "link": "https://drive.google.com/file/d/1ZmYXLXcicW7Uy1b2LNFXPBF4qWz278S2/view?usp=drive_link"
+    },
+    {
+        "id": 3,
+        "name": "Algorithm Tries",
+        "link": "https://drive.google.com/file/d/1A4flNp_afjNsxb0VyKFBfZBpMAmR2XUQ/view?usp=sharing"
+    },
+    {
+        "id": 4,
+        "name": "All_pair_shortest_path",
+        "link": "https://drive.google.com/file/d/1gXL8McJDDmljgRhJ8iC7gicw2FRnjK0b/view?usp=drive_link"
+    },
+    {
+        "id": 5,
+        "name": "allpair",
+        "link": "https://drive.google.com/file/d/17_I0yqKasadPm0relQYZnlPaWH-pL1Ee/view?usp=drive_link"
+    },
+    {
+        "id": 6,
+        "name": "Approximation Algo",
+        "link": "https://drive.google.com/file/d/1bmshRt6SvQEEfOuZyqzLg3jUPmZQJm7t/view?usp=drive_link"
+    },
+    {
+        "id": 7,
+        "name": "AugDS",
+        "link": "https://drive.google.com/file/d/1uYjfmv5rfTA_u4O1ayncbabB8lf4T9-r/view?usp=drive_link"
+    },
+    {
+        "id": 8,
+        "name": "BestShortestPath",
+        "link": "https://drive.google.com/file/d/16zaXWjoVo9qRH88CTwqawa-tJ1fxWFmu/view?usp=drive_link"
+    },
+    {
+        "id": 9,
+        "name": "BFS_DFS_clrs",
+        "link": "https://drive.google.com/file/d/1jAOQY7cVHsKvVGDXQqfVahlPKTlw13jC/view?usp=drive_link"
+    },
+    {
+        "id": 10,
+        "name": "Branch&Bound",
+        "link": "https://drive.google.com/file/d/1GPsG4ywRMx3oZhoKU4AjJAJaUBI4OMWM/view?usp=drive_link"
+    },
+    {
+        "id": 11,
+        "name": "CLRS 4th Book",
+        "link": "https://drive.google.com/file/d/1zjpeHp1kzb0vCGuL6M6xd8CntWjCFSAR/view?usp=drive_link"
+    },
+    {
+        "id": 12,
+        "name": "clrs_maxFlow",
+        "link": "https://drive.google.com/file/d/1w0SjJHbHs88nwzpIVs-LWOxEzl9J8wnM/view?usp=drive_link"
+    },
+    {
+        "id": 13,
+        "name": "count-min",
+        "link": "https://drive.google.com/file/d/19qnHtBjPjuB9GwS1dVu0N6h46ueS0NkH/view?usp=drive_link"
+    },
+    {
+        "id": 14,
+        "name": "DAA_Mid_Ankit",
+        "link": "https://drive.google.com/file/d/1MfrYfyTxbcH-tg6FB2M4Lp_xyolH8yIN/view?usp=drive_link"
+    },
+    {
+        "id": 15,
+        "name": "g2mst",
+        "link": "https://drive.google.com/file/d/1-mOkxQXSW3gOlkj4lrDmfMPC2FpudC-r/view?usp=drive_link"
+    },
+    {
+        "id": 16,
+        "name": "Graph_algos_ankit",
+        "link": "https://drive.google.com/file/d/1xuYX4T3it-7CKCfRn-Jjsr0uW-HhqMzr/view?usp=drive_link"
+    },
+    {
+        "id": 17,
+        "name": "Graph_DFS_BFS",
+        "link": "https://drive.google.com/file/d/1OtwDuD37MUYasSTEIeKLhNDoFF1J8beS/view?usp=drive_link"
+    },
+    {
+        "id": 18,
+        "name": "Graph1",
+        "link": "https://drive.google.com/file/d/1pjlis9c5qEA26DJ1-vfaEiqSwo2G_HOi/view?usp=drive_link"
+    },
+    {
+        "id": 19,
+        "name": "KD TREE",
+        "link": "https://drive.google.com/file/d/15sThX0noHkO5Mo-4v7lPzZ4IgkZwH4WC/view?usp=drive_link"
+    },
+    {
+        "id": 20,
+        "name": "kd-tree",
+        "link": "https://drive.google.com/file/d/1snOMJfB4B1lULqKug-0BoesZnRPL5Pmg/view?usp=drive_link"
+    },
+    {
+        "id": 21,
+        "name": "maxflow",
+        "link": "https://drive.google.com/file/d/17z0DH9El2xY3tE5iUpggL625o_8-C_Rk/view?usp=drive_link"
+    },
+    {
+        "id": 22,
+        "name": "NP_Rajesh_Notes",
+        "link": "https://drive.google.com/file/d/1XK8x72CaQ1SRQ5ZzMrYMWJwC30feF_U6/view?usp=drive_link"
+    },
+    {
+        "id": 23,
+        "name": "np-complete-final",
+        "link": "https://drive.google.com/file/d/1BzjpXjSn0_K9D2CE2AUAMZVjJGzQdBQD/view?usp=drive_link"
+    },
+    {
+        "id": 24,
+        "name": "NP-COMPLETE",
+        "link": "https://drive.google.com/file/d/1K1IlS7ZlmA7-4yP0-LH8UW7CDkkqOOtZ/view?usp=drive_link"
+    },
+    {
+        "id": 25,
+        "name": "np1",
+        "link": "https://drive.google.com/file/d/1XX4-Z0cHjZzsEhXs_2SOeZzDxAYHLIUY/view?usp=drive_link"
+    },
+    {
+        "id": 26,
+        "name": "np2",
+        "link": "https://drive.google.com/file/d/1piymfW3geLxchW2_Pvjnb99aAdRlSNmB/view?usp=drive_link"
+    },
+    {
+        "id": 27,
+        "name": "np3",
+        "link": "https://drive.google.com/file/d/1qro0o8gaV3Rqnh35Hv6AXWik3RHmPp45/view?usp=drive_link"
+    },
+    {
+        "id": 28,
+        "name": "order",
+        "link": "https://drive.google.com/file/d/1Tm518y4RlegomcNfr1PxIvklUpiqhZfY/view?usp=drive_link"
+    },
+    {
+        "id": 29,
+        "name": "rand (1)",
+        "link": "https://drive.google.com/file/d/1V8SB1gCLpky9tXPUqU06T4o5cnutmJQe/view?usp=drive_link"
+    },
+    {
+        "id": 30,
+        "name": "rand (2)",
+        "link": "https://drive.google.com/file/d/1m3a-ULyCVDBVJVf24AklNVzANaOCokpg/view?usp=drive_link"
+    },
+    {
+        "id": 31,
+        "name": "rand (3)",
+        "link": "https://drive.google.com/file/d/1yq8ZeiqZXGaW7FYoVOGcAbcRN5-z5GfC/view?usp=drive_link"
+    },
+    {
+        "id": 32,
+        "name": "Trees_Tries_FordFulkerson",
+        "link": "https://drive.google.com/file/d/1QX5YDmSZv5j1BHQrJ1khc-TZG_6E26Xp/view?usp=drive_link"
+    }
+]

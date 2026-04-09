@@ -1,22 +1,172 @@
 [
-    {
-        "id": 1,
-        "name": "Memory",
-        "link": "https://drive.google.com/file/d/1BOEUFtDQj7-mjBFk9t9i9MzV_MQHXm9A/view?usp=sharing"
-    },
-    {
-        "id": 2,
-        "name": "File 2",
-        "link": "https://example.com/file2.pdf"
-    },
-    {
-        "id": 3,
-        "name": "File 3",
-        "link": "https://example.com/file3.pdf"
-    },
-    {
-        "id": 4,
-        "name": "File 4",
-        "link": "https://example.com/file4.pdf"
-    }
+  {
+    "id": 1,
+    "name": "Hopcroft-Motwani-Ullman-2001",
+    "link": "https://drive.google.com/file/d/1aJKzub8dN52yQR9ji_Ffk1dqmdhQQGC6/view?usp=sharing"
+  },
+  {
+    "id": 2,
+    "name": "Finite Automata",
+    "link": "https://drive.google.com/file/d/1dSvk5FlWDFqlDcdCPhwwXQW1WiXo84UO/view?usp=drive_link"
+  },
+  {
+    "id": 3,
+    "name": "Finite Automata with Outputs",
+    "link": "https://drive.google.com/file/d/1nJw0k16YIePWRbX_vsx9UPXf3tOpjQJl/view?usp=drive_link"
+  },
+  {
+    "id": 4,
+    "name": "Pumping Lemma for Regular Sets",
+    "link": "https://drive.google.com/file/d/1IeEm_TFArPK4Hvz4jDgaJkax1dLh1M3Q/view?usp=drive_link"
+  },
+  {
+    "id": 5,
+    "name": "Closure and Decision Properties",
+    "link": "https://drive.google.com/file/d/1F14UNDd096tGFwlqGPTAFmBnyk_Mf6yC/view?usp=drive_link"
+  },
+  {
+    "id": 6,
+    "name": "RegularGrammars",
+    "link": "https://drive.google.com/file/d/1L0HMI2LVTVVTRVvW0Q2VDb1Dqcsw7DlP/view?usp=drive_link"
+  },
+  {
+    "id": 7,
+    "name": "Pumping Lemmas",
+    "link": "https://drive.google.com/file/d/1pg9brU_c7j1BLLcnMOi5ROtWom-3T0UX/view?usp=drive_link"
+  },
+  {
+    "id": 8,
+    "name": "Properties of Context Free Languages",
+    "link": "https://drive.google.com/file/d/1h2W-miAovBJZxkrOZAjjslVqdDbKHT5r/view?usp=drive_link"
+  },
+  {
+    "id": 9,
+    "name": "CFG II",
+    "link": "https://drive.google.com/file/d/1GydTwCqF1n__mWXt8FnZsSSTQn5hya-u/view?usp=drive_link"
+  },
+  {
+    "id": 10,
+    "name": "CFG-Practrice Problems",
+    "link": "https://drive.google.com/file/d/16SBSN0LbNvmnwIdHf2L_-Z7cjkweUdrn/view?usp=drive_link"
+  },
+  {
+    "id": 11,
+    "name": "CFG",
+    "link": "https://drive.google.com/file/d/1hnLG1mFOnLTMJO1-GogRhdw2K30MqdNd/view?usp=drive_link"
+  },
+  {
+    "id": 12,
+    "name": "CFL - Pumping Lemma",
+    "link": "https://drive.google.com/file/d/1z7QtdPIDFgrmwxjgj45fLJRKZVmCtWAh/view?usp=drive_link"
+  },
+  {
+    "id": 13,
+    "name": "CFL- Normal Forms and Pumping Lemma",
+    "link": "https://drive.google.com/file/d/1s5xj--nablxx2SwWzTKjl-xBdE6JEZ9r/view?usp=drive_link"
+  },
+  {
+    "id": 14,
+    "name": "Church-Turing Thesis",
+    "link": "https://drive.google.com/file/d/1lY4KF55zu6AsA0GO0rRbyAi7pD9BzmgB/view?usp=drive_link"
+  },
+  {
+    "id": 15,
+    "name": "Comp.Arithmetic-Stallings_Ch.9",
+    "link": "https://drive.google.com/file/d/149BUK3FCxTz0olLlswIRJWhtHDRc4uRA/view?usp=drive_link"
+  },
+  {
+    "id": 16,
+    "name": "CSC EVEN END-TERM 2022-23",
+    "link": "https://drive.google.com/file/d/1qZ-B8iC8VNEWrQJrtJltyzwstXZfOiIC/view?usp=drive_link"
+  },
+  {
+    "id": 17,
+    "name": "CSL",
+    "link": "https://drive.google.com/file/d/1up9crLHtAga0ypLj_iLrDaJkChEmoOEp/view?usp=drive_link"
+  },
+  {
+    "id": 18,
+    "name": "Decidable Problems about RL",
+    "link": "https://drive.google.com/file/d/1sKDjIi1iJRfMq9QopQkMeo-DviNKaenc/view?usp=drive_link"
+  },
+  {
+    "id": 19,
+    "name": "DFA and Regular Languages",
+    "link": "https://drive.google.com/file/d/1aInp6soV2CpeYOyQxBVvlfo0xVAX0Qep/view?usp=drive_link"
+  },
+  {
+    "id": 20,
+    "name": "GNFA, Pumping Lemma",
+    "link": "https://drive.google.com/file/d/1lcBwqErL382e4xTE3T062ZavQfnxMpnj/view?usp=drive_link"
+  },
+  {
+    "id": 21,
+    "name": "HALF(L)",
+    "link": "https://drive.google.com/file/d/1sMNjDEB8N9a-ujoOjg3_nTex0Oxt8tcG/view?usp=drive_link"
+  },
+  {
+    "id": 22,
+    "name": "Homomorphism",
+    "link": "https://drive.google.com/file/d/1sEcCqVEqfo0tuCYEWc6ClBhQ4MYy-etJ/view?usp=drive_link"
+  },
+  {
+    "id": 23,
+    "name": "lba",
+    "link": "https://drive.google.com/file/d/1qCJrj334zSpVnTWoi9SKCoaQOsYIgrcF/view?usp=drive_link"
+  },
+  {
+    "id": 24,
+    "name": "PDA I",
+    "link": "https://drive.google.com/file/d/1_BxZyS-FtjhLTzR2P-sOEVnMUO_IofEz/view?usp=drive_link"
+  },
+  {
+    "id": 25,
+    "name": "PDA II",
+    "link": "https://drive.google.com/file/d/1ueVc7kdsI3nJPr4g_6EexUc7ZYGshpEc/view?usp=drive_link"
+  },
+  {
+    "id": 26,
+    "name": "Product Constrction, NFA, NFA=DFA",
+    "link": "https://drive.google.com/file/d/1eDVel2hFJXiE8KG5YFOyXg6MlXZxtOCO/view?usp=drive_link"
+  },
+  {
+    "id": 27,
+    "name": "Pumpimg Lemma",
+    "link": "https://drive.google.com/file/d/1lWrW6TBnDp5wxcxeqXo6mp5GI-1-jHAv/view?usp=drive_link"
+  },
+  {
+    "id": 28,
+    "name": "Quotient Construction",
+    "link": "https://drive.google.com/file/d/1lfqweXxWFX1lAKMXYxooFAfKQJPVBbWO/view?usp=drive_link"
+  },
+  {
+    "id": 29,
+    "name": "Regular Languages I",
+    "link": "https://drive.google.com/file/d/1a6r3QdXxj6FfRXwlp_zRH5pTxMALF7s5/view?usp=drive_link"
+  },
+  {
+    "id": 30,
+    "name": "Regular Languages II",
+    "link": "https://drive.google.com/file/d/1eEssJu4BNqpw-AyvmzWnOqvl24CNs-PN/view?usp=drive_link"
+  },
+  {
+    "id": 31,
+    "name": "Turing Machine Examples",
+    "link": "https://drive.google.com/file/d/1Wyhu9Q_2sOoLtz6T1a0LDW9vXgpKyCwD/view?usp=drive_link"
+  },
+  {
+    "id": 32,
+    "name": "Turing Machine, Its Languages and Grammars",
+    "link": "https://drive.google.com/file/d/1Jex-RWQnIKAnu8Ip84Gnu3JJSWNR36dp/view?usp=drive_link"
+  },
+  {
+    "id": 33,
+    "name": "Turing Machines",
+    "link": "https://drive.google.com/file/d/1QXM6dH331f2F8MWLUWCl9PZ__dcX6Zqp/view?usp=drive_link"
+  },
+  {
+    "id": 34,
+    "name": "UG",
+    "link": "https://drive.google.com/file/d/16KDc015Hv4tQwoXnttaGqig8KvjgOteu/view?usp=drive_link"
+  }
 ]

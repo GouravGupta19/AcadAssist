@@ -108,7 +108,7 @@ export default function Footer() {
             `}</style>
             <footer style={styles.footer}>
                 <span style={styles.madeWith}>
-                    Made with <span style={styles.heart}>❤</span> AcadAssist
+                    Made with <span style={styles.heart}>❤</span> Batch of 2027
                 </span>
                 {visitorCount !== null ? (
                     <span style={styles.badge}>

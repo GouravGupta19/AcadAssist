@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "name": "CSE_PYQs_sem5_2025",
+        "link": "https://drive.google.com/file/d/11k38C8n09TMtAt6lFWtl9DZ8LGHDNCko/view?usp=sharing"
+    },
+    {
+        "id": 2,
+        "name": "CD_2024_25___Endsem",
+        "link": "https://drive.google.com/file/d/15itAlMR-M3MVzD0e-BxqzwjPbPlPFQUG/view?usp=drive_link"
+    },
+    {
+        "id": 3,
+        "name": "Compiler PYQ Merged2",
+        "link": "https://drive.google.com/file/d/1kN8xzh75T3xAR-lF09ZGHdfcr71NZuAo/view?usp=drive_link"
+    },
+    {
+        "id": 4,
+        "name": "CSC Odd Sem End-term 2023-24",
+        "link": "https://drive.google.com/file/d/1PLFSiZLnrXFCJki5XjfVc-RGeo5zwPf2/view?usp=drive_link"
+    },
+    {
+        "id": 5,
+        "name": "Document 19",
+        "link": "https://drive.google.com/file/d/1lOIqc6799inASm_7MYkF3FZABFgHI0qa/view?usp=drive_link"
+    },
+    {
+        "id": 6,
+        "name": "Dragon_Book",
+        "link": "https://drive.google.com/file/d/1-UsE7zbPSf0kJM1JKwJ-0mLicG4w8hLB/view?usp=drive_link"
+    },
+    {
+        "id": 7,
+        "name": "Dragon_Book2",
+        "link": "https://drive.google.com/file/d/1OYAt0n53QMcZmsDU9kccWE4fDvWj8V7e/view?usp=drive_link"
+    },
+    {
+        "id": 8,
+        "name": "Pijush_notes",
+        "link": "https://drive.google.com/file/d/1Q5d78hlRO8UQS90Hhjh3DFxusCKQ1pkr/view?usp=drive_link"
+    },
+    {
+        "id": 9,
+        "name": "Rajesh_SDT",
+        "link": "https://drive.google.com/file/d/1-0jYIH7cybH-oVb3U04_Ss7rO6mNaQE1/view?usp=sharing"
+    },
+    {
+        "id": 10,
+        "name": "Rakesh_compilerNotes",
+        "link": "https://drive.google.com/file/d/1uAfi9d_XX418N8ePVxODifvytVGYl0s1/view?usp=drive_link"
+    },
+    {
+        "id": 11,
+        "name": "sdt",
+        "link": "https://drive.google.com/file/d/1Vj2b6oSN5A9yuUsawE3qc3DWKBdFDsWP/view?usp=drive_link"
+    },
+    {
+        "id": 12,
+        "name": "ShyamantakCompilerNotes",
+        "link": "https://drive.google.com/file/d/150ywb8swVg42dxzSzpQ8KrASLVBY_MfQ/view?usp=drive_link"
+    },
+    {
+        "id": 13,
+        "name": "t4",
+        "link": "https://drive.google.com/file/d/1YDvbuxjgQe7l-UQSu1lP3yxjStz8MDMF/view?usp=drive_link"
+    },
+    {
+        "id": 14,
+        "name": "Unacademy-Compiler Design",
+        "link": "https://drive.google.com/file/d/1hRAiZ-ALq3aG33CWp4mMSEQeeWMejnex/view?usp=drive_link"
+    },
+    {
+        "id": 15,
+        "name": "assembly-language",
+        "link": "https://drive.google.com/file/d/1jPW3WOtvQexAKFQAv8l253SICRFSgoG1/view?usp=drive_link"
+    },
+    {
+        "id": 16,
+        "name": "Buffering",
+        "link": "https://drive.google.com/file/d/1ItCghVYtnjHJCqSYmfhbXHdOznHZhNIE/view?usp=drive_link"
+    },
+    {
+        "id": 17,
+        "name": "C Programming Language - CFG",
+        "link": "https://drive.google.com/file/d/1PH2wFNAZSZSht4jJy2Kw_jg_WnBOIoLc/view?usp=drive_link"
+    },
+    {
+        "id": 18,
+        "name": "CFG, Derivations, Parse Trees, Ambiguity",
+        "link": "https://drive.google.com/file/d/1Cn_qLDey8tK3wdmsW1DSgyv6-nuiwq44/view?usp=drive_link"
+    },
+    {
+        "id": 19,
+        "name": "Control Flow Statements",
+        "link": "https://drive.google.com/file/d/1vP1R8OCT4fk6-Bt17Wlms7rmukoYEoPh/view?usp=drive_link"
+    },
+    {
+        "id": 20,
+        "name": "Converting Expressions",
+        "link": "https://drive.google.com/file/d/1d1qoB5dnnZh5o_WfSF4mVKC0sawFDafo/view?usp=drive_link"
+    },
+    {
+        "id": 21,
+        "name": "definition-regular-expressions",
+        "link": "https://drive.google.com/file/d/1RM2VUykIQSkKPk-boOXyilEY4s8MFnrt/view?usp=drive_link"
+    },
+    {
+        "id": 22,
+        "name": "DFA Definition",
+        "link": "https://drive.google.com/file/d/1TgXIVUhoFkcRy9wLdgx02WfrjxzcPX7D/view?usp=drive_link"
+    },
+    {
+        "id": 23,
+        "name": "Eliminating Ambiguity,Left & Factoring",
+        "link": "https://drive.google.com/file/d/1WNv6BrqkxRnPRUYsymu6H17ji0g6sIq4/view?usp=drive_link"
+    },
+    {
+        "id": 24,
+        "name": "Extra - DFA to RE + DFA Minimization",
+        "link": "https://drive.google.com/file/d/1jL9Ao7_GYs3W2kj0KlaAXZGFLfycVWTA/view?usp=drive_link"
+    },
+    {
+        "id": 25,
+        "name": "Extra-CKY Algorithm",
+        "link": "https://drive.google.com/file/d/1_twmqbyotVfgmUyUp1FPuWK0DG9FY1DD/view?usp=drive_link"
+    },
+    {
+        "id": 26,
+        "name": "Extra-Lex",
+        "link": "https://drive.google.com/file/d/1QkptTbNHeGKTWp-K-oBrcC9naO3g59g-/view?usp=drive_link"
+    },
+    {
+        "id": 27,
+        "name": "Implementing Scanners",
+        "link": "https://drive.google.com/file/d/1Y-p8QDXLdS03xsNu5DHd0tTkJRyTmHSJ/view?usp=drive_link"
+    },
+    {
+        "id": 28,
+        "name": "intro-to-scanner",
+        "link": "https://drive.google.com/file/d/140kRcgGdwyQbGxg2zCBzTB91gfAI-8UF/view?usp=drive_link"
+    },
+    {
+        "id": 29,
+        "name": "Lect-1-Introduction",
+        "link": "https://drive.google.com/file/d/1Ab938xfIiRXBfEtIT46vmjGDKCZmG8jN/view?usp=drive_link"
+    },
+    {
+        "id": 30,
+        "name": "Lect-2-Scanner",
+        "link": "https://drive.google.com/file/d/1fmuctRAkKF3H-GDg_inXwrMqvdHl6IVp/view?usp=drive_link"
+    },
+    {
+        "id": 31,
+        "name": "Lect-3-flex",
+        "link": "https://drive.google.com/file/d/1RP-cSHWqVVM7I2CMdyvSdhoh7_KhTi_T/view?usp=drive_link"
+    },
+    {
+        "id": 32,
+        "name": "Lect-4-IntroSyntaxAnalysis",
+        "link": "https://drive.google.com/file/d/1FIpQMR-6qFSFFNuoOp0HbwNTCzmGuUJo/view?usp=drive_link"
+    },
+    {
+        "id": 33,
+        "name": "Lect-8-Bison",
+        "link": "https://drive.google.com/file/d/107ISqs1YrtJtngSOWtWGpxz5mZX4T1EO/view?usp=drive_link"
+    },
+    {
+        "id": 34,
+        "name": "NFA and NFA to DFA",
+        "link": "https://drive.google.com/file/d/1FTrEp8bk8fsw7GuJvEJjEpoVziK6Gniq/view?usp=drive_link"
+    },
+    {
+        "id": 35,
+        "name": "NFA to DFA (Subset Construction)",
+        "link": "https://drive.google.com/file/d/1j_4kHhfylrSr6YW0Vr_3p7CIymLuHbx5/view?usp=drive_link"
+    },
+    {
+        "id": 36,
+        "name": "RE to DFA (directly)",
+        "link": "https://drive.google.com/file/d/1KK2jSDkkk51oW-k3srOqVNW41kPxhNfu/view?usp=drive_link"
+    },
+    {
+        "id": 37,
+        "name": "SDT for while",
+        "link": "https://drive.google.com/file/d/1Ncg7Dc2PlcKFjLIuRb5NETBb8rFypDaV/view?usp=drive_link"
+    },
+    {
+        "id": 38,
+        "name": "Subset Construction",
+        "link": "https://drive.google.com/file/d/1dHxb7Q-dJ8CYo0_328OVtIU-Lgffky3v/view?usp=drive_link"
+    },
+    {
+        "id": 39,
+        "name": "subset-construction",
+        "link": "https://drive.google.com/file/d/1DCwIuGQFpxb1huxqbn_umOovienhc0uR/view?usp=drive_link"
+    },
+    {
+        "id": 40,
+        "name": "Thompson's Construction (RE to NFA)",
+        "link": "https://drive.google.com/file/d/1J8uAvezrtRPHvWqzrnO-WHRz9wfzu2RA/view?usp=drive_link"
+    },
+    {
+        "id": 41,
+        "name": "Three Address Code",
+        "link": "https://drive.google.com/file/d/1-9IHd61KuBgv3zLSXCcBVVaNL27GUfCZ/view?usp=drive_link"
+    },
+    {
+        "id": 42,
+        "name": "CD_2025_26___HW1",
+        "link": "https://drive.google.com/file/d/1cX2g8i-Huy4SfVgnhTxhavlgJ8CuqMy-/view?usp=drive_link"
+    },
+    {
+        "id": 43,
+        "name": "CD_2025_26___HW2",
+        "link": "https://drive.google.com/file/d/1PWkzsyhdb3VCcJRx55dvLDyPXnIQe-Xz/view?usp=drive_link"
+    },
+    {
+        "id": 44,
+        "name": "CD_2025_26___HW3",
+        "link": "https://drive.google.com/file/d/1_Jfb7L4a8QH0WnsqDcXLDJOSTF3Zgcqw/view?usp=drive_link"
+    },
+    {
+        "id": 45,
+        "name": "CD_2025_26___T1",
+        "link": "https://drive.google.com/file/d/1ka6OLBtP7bsyXIKeGhHfdlCYaWF2LZCX/view?usp=drive_link"
+    },
+    {
+        "id": 46,
+        "name": "CD_2025_26___T2",
+        "link": "https://drive.google.com/file/d/1KvP3j_AuHEdut6xg6DmLSIjTq1qadKg8/view?usp=drive_link"
+    },
+    {
+        "id": 47,
+        "name": "CD_2025_26___T3",
+        "link": "https://drive.google.com/file/d/1_ccqiOoJxHOSbyffls5o6kZhYavBFKvM/view?usp=drive_link"
+    },
+    {
+        "id": 48,
+        "name": "CD_2025_26___T4",
+        "link": "https://drive.google.com/file/d/11q8ToX4oXukvXyonmDbrLbPylNsMZLYX/view?usp=drive_link"
+    },
+    {
+        "id": 49,
+        "name": "CD_2025_26___T5",
+        "link": "https://drive.google.com/file/d/1IqKWpUxfohCrKJ54Otyc2E7cn_SuHM-B/view?usp=drive_link"
+    },
+    {
+        "id": 50,
+        "name": "Maximal Munch Tokenization in Linear Time - Thomas Reps",
+        "link": "https://drive.google.com/file/d/1CV70XY-rSDGDYfd0QzFPDLiFec8XoWtK/view?usp=drive_link"
+    }
+]

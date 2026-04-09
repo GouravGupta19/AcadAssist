@@ -1,0 +1,203 @@
+[
+    {
+        "id": 1,
+        "name": "CSE_PYQs_sem5_2025",
+        "link": "https://drive.google.com/file/d/11k38C8n09TMtAt6lFWtl9DZ8LGHDNCko/view?usp=drive_link"
+    },
+    {
+        "id": 2,
+        "name": "ch01",
+        "link": "https://docs.google.com/presentation/d/1uVykn-dxHlyZ9U5VTTVqz57ohKZ2DYrj/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 3,
+        "name": "ch02",
+        "link": "https://docs.google.com/presentation/d/1UuBrGsVjXc-1cVphJts5wbsYU9fee_WC/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 4,
+        "name": "ch03-1",
+        "link": "https://docs.google.com/presentation/d/1fEKWDz1okSFy7UGpqXorYBL9l-XfUKn4/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 5,
+        "name": "ch04-digital-transmission-pdf",
+        "link": "https://drive.google.com/file/d/1svHa_bXh_s_xTE48kfyoCqVO0RTtlm15/view?usp=drive_link"
+    },
+    {
+        "id": 6,
+        "name": "ch04-digital-transmission-ppt",
+        "link": "https://docs.google.com/presentation/d/1UUuQlUbaMkqNDTLWITHz2LDtW3hvZeI7/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 7,
+        "name": "ch05-analog-transmission",
+        "link": "https://docs.google.com/presentation/d/1NlK3umyXblMm71Z3ol0PjgSygMzQXWj_/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 8,
+        "name": "ch06-bandwidth-utilization",
+        "link": "https://docs.google.com/presentation/d/1IGEbPVspKdo8aDJdzzMmdMaIBuf4csRz/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 9,
+        "name": "ch07-transmission-media",
+        "link": "https://docs.google.com/presentation/d/1PwRCrmVqWa2Tc4EB5ORdnlRFWLU087Fv/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 10,
+        "name": "ch10-error-detection-and-correction",
+        "link": "https://docs.google.com/presentation/d/1v1wokToWZEVLfM-oNH3ylAWGVZRDNusG/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 11,
+        "name": "ch11-data-link-control",
+        "link": "https://docs.google.com/presentation/d/1wCuavcWv8qLZ6TyfuQy24GgoafmV6hyL/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 12,
+        "name": "ch12-multiple-access",
+        "link": "https://docs.google.com/presentation/d/1jnAx4Vis92vagsPcPmKm0_3kguJ5Pmq6/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 13,
+        "name": "ch13-wired-lans-ethernet",
+        "link": "https://docs.google.com/presentation/d/1bbv_Roc5AJlFXRTyfApvL4fuL5f15Wk4/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 14,
+        "name": "ch14-wireless-lans",
+        "link": "https://docs.google.com/presentation/d/1GkKk7fGCW1XhLtCzEzfERZIbAE2q8eZz/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 15,
+        "name": "ch19-network-layer-logical-addressing",
+        "link": "https://docs.google.com/presentation/d/1zNQ1txR4og0SgoqRcNqbb0e81FrGU8RJ/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 16,
+        "name": "ch20-network-layer-internet-protocol",
+        "link": "https://docs.google.com/presentation/d/1yQoDQAdoGRmZwHrPvDxKpgzXGszphxzP/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 17,
+        "name": "ch21-network-layer-address-mapping-error-reporting-multicasting",
+        "link": "https://docs.google.com/presentation/d/1t1ZdioOp7KGktBWwD7HLoEjv5Bp6sbxA/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 18,
+        "name": "ch22-network-layer-routing-forwarding-and-delivery",
+        "link": "https://docs.google.com/presentation/d/1q3_67RRH-AjkX__9xeUt-A1gnrtcQQ5s/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 19,
+        "name": "ch23-udp-tcp-sctp",
+        "link": "https://docs.google.com/presentation/d/1rOit3T0e4Phm5ySIzJQm7rnI65ChMutK/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 20,
+        "name": "ch24-congestion-control-and-quality-of-service",
+        "link": "https://docs.google.com/presentation/d/14MgQ2xZaF-44FrUQ-qQTiWHrbM9EGVbX/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 21,
+        "name": "ch25-domain-name-system",
+        "link": "https://docs.google.com/presentation/d/1lS4QdWL2UT1wto5rGt7W0-bPqf-qAhLM/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 22,
+        "name": "ch26-remote-logging-electronic-mail-file-transfer",
+        "link": "https://docs.google.com/presentation/d/1M0xwyhnK5_6RgkWg561TvQpKmq_1Exje/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 23,
+        "name": "ch27-www-and-http",
+        "link": "https://docs.google.com/presentation/d/1A7G5pgqKl_eXeYC0sASSFjvhbUmd4HPZ/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 24,
+        "name": "ch30-cryptography-2",
+        "link": "https://docs.google.com/presentation/d/1OkpOtzfV5dJHFT9HWMlnXZOp8htc2sdg/edit?usp=drive_link&ouid=106816641541553703851&rtpof=true&sd=true"
+    },
+    {
+        "id": 25,
+        "name": "CN_notes_SandeepBhaiya",
+        "link": "https://drive.google.com/file/d/15h8J1948VPOzM7vjec6xakx5WWPfv-UU/view?usp=drive_link"
+    },
+    {
+        "id": 26,
+        "name": "CN-Handwritten_Nirvik",
+        "link": "https://drive.google.com/file/d/1NlBAHlQrW52ISHAYT1NBiFPxEr6Lhdxj/view?usp=drive_link"
+    },
+    {
+        "id": 27,
+        "name": "CN1",
+        "link": "https://drive.google.com/file/d/1KHknx5ZdOXpVrahjr8NhcajYvs4hqhBK/view?usp=drive_link"
+    },
+    {
+        "id": 28,
+        "name": "CN2",
+        "link": "https://drive.google.com/file/d/18tUEi0rlOVjJaEwoPcjSrNCmWit0jB-_/view?usp=drive_link"
+    },
+    {
+        "id": 29,
+        "name": "CN3",
+        "link": "https://drive.google.com/file/d/11LGZSDRG95gmhdGNLhZV43d2RIw5gRou/view?usp=sharing"
+    },
+    {
+        "id": 30,
+        "name": "CN4",
+        "link": "https://drive.google.com/file/d/1wup0u4rkTKiKzv-jWw2l9VOQbn0Egtai/view?usp=drive_link"
+    },
+    {
+        "id": 31,
+        "name": "CN5",
+        "link": "https://drive.google.com/file/d/1WqGt3-qYpC36Q7F_Ue7h-PxKvp6TGa18/view?usp=drive_link"
+    },
+    {
+        "id": 32,
+        "name": "CN6",
+        "link": "https://drive.google.com/file/d/1Wn0Xoc1frgLJHLkB01oA-PUGZYv0CcZv/view?usp=drive_link"
+    },
+    {
+        "id": 33,
+        "name": "CN7",
+        "link": "https://drive.google.com/file/d/1dnve82jvk0F80A0MzGaaZ6zhs3I0Au2o/view?usp=drive_link"
+    },
+    {
+        "id": 34,
+        "name": "CNendsem01",
+        "link": "https://drive.google.com/file/d/1solMZOU2GO9zSHeHyNzcVCtwarMbsLtx/view?usp=drive_link"
+    },
+    {
+        "id": 35,
+        "name": "CNendsem02",
+        "link": "https://drive.google.com/file/d/1FvoeQQtZ5UZ_D8qEVD4hw27kFqDBx_UQ/view?usp=drive_link"
+    },
+    {
+        "id": 36,
+        "name": "CNendsem03",
+        "link": "https://drive.google.com/file/d/1VYmt2VvQow_NyISdZor_rgH3aDZFDNsr/view?usp=drive_link"
+    },
+    {
+        "id": 37,
+        "name": "Forouzan_book",
+        "link": "https://drive.google.com/file/d/1cQk9_yhYtSdcfZB1H1mkF3DwPwpyjlfL/view?usp=drive_link"
+    },
+    {
+        "id": 38,
+        "name": "NetworkLayer_smolBook",
+        "link": "https://drive.google.com/file/d/19k907l0k_UNhdJeSzbYhH8AcZVZt1fIW/view?usp=drive_link"
+    },
+    {
+        "id": 39,
+        "name": "QnPaper",
+        "link": "https://drive.google.com/file/d/1GZhMbLuNfOSrAu6BMARIgaW8sF_V_hbl/view?usp=drive_link"
+    },
+    {
+        "id": 40,
+        "name": "Unacademy_CN",
+        "link": "https://drive.google.com/file/d/1qqT9Pdd-JNR-0shz00HqoG-Ce-BR5sMl/view?usp=drive_link"
+    }
+]
+
