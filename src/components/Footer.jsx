@@ -116,14 +116,14 @@ export default function Footer() {
                 <span style={styles.madeWith}>
                     Made with <span style={styles.heart}>❤</span> Batch of 2027
                 </span>
-                {visitorCount !== null ? (
+                {/* {visitorCount !== null ? (
                     <span style={styles.badge}>
                         <span style={styles.dot} />
                         {visitorCount.toLocaleString()} visits
                     </span>
                 ) : (
                     <span style={styles.skeleton} />
-                )}
+                )} */}
             </footer>
         </>
     );
